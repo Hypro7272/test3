@@ -52,3 +52,20 @@ h1,h2,h3,h4,h5,h6{
     font-size: inherit;
     font-weight: 400;
 }
+.example-block{
+    margin: 10px;
+    min-width: 1000px;
+    width: 100%;
+    border: 2px solid#000;
+}
+.example-string{
+    padding: 10px 20px 30px 5px;
+    width: 500px;
+}
+img{
+    margin: ;
+    width: 100%;
+    max-width: 1000px;
+    min-height: 400px;
+    height: 100%;
+}
